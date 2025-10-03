@@ -1,0 +1,16 @@
+{
+  "library": {
+    "name": "React chart library test",
+    "components": [
+      "./src/**/*.webflow.@(js|jsx|mjs|ts|tsx)"
+    ],
+    "description": "its a test bro"
+  },
+  "telemetry": {
+    "global": {
+      "allowTelemetry": true,
+      "lastPrompted": 1759499788793,
+      "version": "1.8.44"
+    }
+  }
+}
